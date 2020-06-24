@@ -8,3 +8,8 @@ Another approach that I have used is convert the String to char array and then s
 I have solved this problem with the help of Collection ArraysSort in java.
 You could try to minimise the cost head with the help of MutliSet.
 I hope you like this appraoch. Simple and reasonable.
+
+Another great approach to check whether String are anagram or not is to use the string method equalsIgnoreCase which will ignore the lower or upper case.
+Meaning Angel and angel will be considered same and could use the string method equalsIgnoreCase to check if two String are anagram or not.
+
+I hope you like this approach.
