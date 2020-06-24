@@ -13,3 +13,6 @@ Another great approach to check whether String are anagram or not is to use the 
 Meaning Angel and angel will be considered same and could use the string method equalsIgnoreCase to check if two String are anagram or not.
 
 I hope you like this approach.
+
+
+Third approah which will take less time complexity than the above is to check whether string are of equal length or not. Traverse the array and check that conunt for both string converted to char array is same. If so anagram otherwise not.
